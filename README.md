@@ -157,7 +157,7 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ### Sample Text Prediction
 
-![image](https://github.com/pavizhi/named-entity-recognition/assets/95067176/5356f51c-8502-4f40-90d0-d74d75db6c59)
+![image](https://github.com/pavizhi/named-entity-recognition/assets/95067176/d3e589a3-e0db-4ea7-aeef-81a1ea1f8656)
 
 
 ## RESULT
